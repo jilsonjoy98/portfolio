@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#about{
+    padding-top: 100px;
+}
+
+#job{ 
+    border: 3px solid rgb(25, 224, 158); 
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.664);
+    width: 210px;
+    margin-top: 6px;
+    
+    
+}
+
+#exp{
+    
+    margin-left: 10px;
+    text-align: center;
+    background-color: rgb(25, 224, 158);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+#exp1{
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: 2px;
+    padding: 5px;
+}
+
+#contact{
+   padding-top: 50px;
+   justify-content: space-evenly;
+   font-size: 40px;
+}
+
+.card{
+    
+}
