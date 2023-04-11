@@ -1,0 +1,27 @@
+
+
+
+/* .nav_box{
+    background-color: bisque;
+} */
+
+@media (max-width: 768px) {
+    #basic-navbar-nav {
+       text-align: center;
+
+       
+    }
+  }
+
+  @media (max-width: 768px) {
+    .navbox1 {
+        border-radius: 25px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .navbox2:hover {
+        background-color: rgb(250, 161, 161);
+    }
+  }
+

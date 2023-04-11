@@ -1,0 +1,60 @@
+/* .boxs{
+    margin-top: 100px;
+    color: black;
+    text-align: center;
+    
+}
+ @media (min-width: 1024px) {
+    .boxw {
+      border-radius: 20px;
+      
+
+    }
+  }
+@media (max-width: 768px) {
+    .boxw {
+        border-radius: 20px;
+
+
+    }
+  }
+  
+.boxw{
+border: 1px solid black;
+font-size: 19px;
+
+} */
+
+
+@media (min-width: 1024px) {
+  .skill_box {
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 200px;
+    width: 20%;
+     background-color: whitesmoke;    
+
+  }
+}
+@media (max-width: 768px) {
+  .skill_box {
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 190px;
+    width: 50%;
+     background-color: whitesmoke;    
+  }
+}
+@media (min-width: 1024px) {
+  .text_font {
+    padding-top: 10px;
+    padding-left:10px ;
+    font-size: 19px;
+  }
+}
+@media (max-width: 768px) {
+  .text_font {
+
+    white-space: nowrap;
+  }
+}

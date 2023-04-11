@@ -1,0 +1,23 @@
+@media (min-width: 1024px) {
+    .btbox {
+        position: relative;
+        top: 70px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .box1 {
+        margin-left: 5px;
+        width: 350px;
+    }
+  }
+  
+
+  @media (max-width: 768px) {
+    .boxside {
+        margin:10px ;
+        align-items: center;
+        width: auto;
+        
+    }
+  }

@@ -1,0 +1,14 @@
+.qbox{
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 180px;
+    padding: 7px;
+    width: fit-content;
+    background-color: whitesmoke;
+}
+
+@media (min-width: 1024px) {
+    .spaceBox1 {
+        margin-left: 30px;
+    }
+  }

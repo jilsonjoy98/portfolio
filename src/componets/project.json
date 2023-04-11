@@ -1,0 +1,50 @@
+ [
+    {
+    "id":1,
+    "Title":"Restaurant list",
+    "pic":"https://i.pinimg.com/564x/dd/d3/01/ddd3014020726457d03205784a657899.jpg",
+    "disp":"The website is to view details of the food, Rating, and Reviews and to know the opening and closing of the restaurant.",
+    "Git":"https://github.com/jilsonjoy98/resturant-list-react.git",
+    "youtube":"https://youtu.be/mxk--xxBmjo"
+    
+        },
+        {
+            "id":2,
+            "Title":"Employee Management App",
+            "pic":"https://i.pinimg.com/564x/44/59/ed/4459ed974f91a032e35dc4be8a308a83.jpg",
+            "disp":"On this website, you can create, view, delete and edit the details of the Employee. This website is used to track the details of the employees in a company. ",
+            "Git":"https://github.com/jilsonjoy98/EmployeeManagementApp_frontend.git",
+            "youtube":"https://youtu.be/bPNP_d6yO_8"
+            
+                },
+                {
+                    "id":3,
+                    "Title":"Netflix clone",
+                    "pic":"https://i.pinimg.com/564x/b1/d4/0d/b1d40d899da50c2f99ebe3474535aac9.jpg",
+                    "disp":"Api calling is done to get details for the M4movies website. It contains banners, Original Movies, Trending, Top Rated, and Action Movies .",
+                    "Git":"https://github.com/jilsonjoy98/netflix_Clone.git",
+                    "youtube":"https://youtu.be/5HQksXrWAjY"
+                    
+                        },
+                        {
+                            "id":4,
+                            "Title":"Books Store",
+                            "pic":"https://i.pinimg.com/564x/c3/57/83/c35783451f5a35c5c6873c4a0b0014d0.jpg",
+                            "disp":"Online Book Store using MEAN Stack. On this website, you can search for books, view product details, add to a cart, add to your wishlist, and also view total payment.",
+                            "Git":"https://github.com/jilsonjoy98/BooksStore_frontend.git",
+                            "youtube":"https://youtu.be/w2GMMBF3zb4"
+                            
+                                },
+                                {
+                                    "id":5,
+                                    "Title":"Bank App",
+                                    "pic":"https://i.pinimg.com/564x/97/83/b4/9783b42b41d0ef9f7b8bef436b2684e3.jpg",
+                                    "disp":"Made using MEAN Stack. In this banking Application, you can create an account and you can also make transactions and view mini statements and you can also check your account balance.",
+                                    "Git":"https://github.com/jilsonjoy98/bankfrontend-NewOct22.git",
+                                    "youtube":"https://youtu.be/aYjp9f5gmr4"
+                                    
+                                        }
+            ]
+   
+    
+   

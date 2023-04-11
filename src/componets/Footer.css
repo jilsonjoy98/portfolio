@@ -1,0 +1,9 @@
+.footer{
+    overflow-y: hidden;
+    color: white;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}

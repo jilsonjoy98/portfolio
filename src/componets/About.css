@@ -1,0 +1,21 @@
+.box{
+    margin-top: 100px;
+    color: black;
+    text-align: center;
+
+}
+.box_2{
+    margin-top: 30px;
+    text-align: justify;
+
+
+}
+.box_1 img{
+    width: auto;
+    height: 300px;
+    border-radius: 20px;
+    filter: grayscale();
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
