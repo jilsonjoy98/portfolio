@@ -24,8 +24,7 @@
 
   @media (max-width: 768px) {
     .box_t {
-        padding: 2px;
-        margin-right: 20px;
+        padding: 0px;
 
     }
   }
@@ -45,14 +44,14 @@
   @media (max-width: 768px) {
     .box_a {
         border-radius: 50%;
-        width: 200px;
+        width: 150px;
         filter: grayscale();
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       }
 }
 
   .hand{
-    transform: rotate(20deg);;
+    transform: rotate(30deg);;
   }
 
   /* .back_g{

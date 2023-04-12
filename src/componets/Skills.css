@@ -26,6 +26,9 @@ font-size: 19px;
 } */
 
 
+
+/* newwww */
+/* 
 @media (min-width: 1024px) {
   .skill_box {
     margin-left: 90px;
@@ -56,5 +59,24 @@ font-size: 19px;
   .text_font {
 
     white-space: nowrap;
+  }
+} */
+
+
+/* .................. */
+
+.box_style{
+  margin-top: 10px;
+  height: 150px;
+  background-color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+@media (min-width: 1024px) {
+  .box_style {
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 160px;
+
   }
 }

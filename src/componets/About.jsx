@@ -17,10 +17,10 @@ export default function About() {
               </Col>
               <Col md={6}  className='box_2'>
               <p>
-                  Hi there, I'm Jilson Joy. A Full Stack Web Developer, having specialization in back end & front end development. I Enjoy Taking Complex Problems & Turning them into Simple. I also love the Structure of Coding and Write Efficient Code.
+                  Hi there, I'm Jilson Joy. A full stack web developer, having specialization in back end & front end development. I enjoy taking complex problems & turning them into simple. I also love the structure of coding and write efficient code.
               </p>
               <a href={jilson} target='_blank'>
-              <Button variant="dark">Download CV 
+              <Button variant="dark" className='mt-3 button_block'>Download CV 
               <i className="ms-2 fa-solid fa-file-lines"></i>
               </Button>{' '}
               </a>
